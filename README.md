@@ -1,2 +1,3 @@
-# hypercurve.github.io
-Technology City Just-In-Time Distribution Network
+# datahaus.github.io
+Sample parent project
+http://datahaus.github.io
