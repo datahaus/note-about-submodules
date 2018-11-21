@@ -21,7 +21,7 @@ Later we may use the following:
 To add as a submodule to your existing project, run the following command in your local project folder.
 When you deploy, only the submodule reference will reside in your GitHub repo.
 
-git submodule add https://github.com/georgiadata/site.git site
+git submodule add https://github.com/[your site]/site.git site
 
 Avoid editing a submodule inside another repo. Otherwise conflicts will occur when commiting.
 
